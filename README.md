@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **amal.harrat@hotmail.fr**
 
-- ⚡ Fun fact **When I was little I dreamed of being a cashier because I loved typing on the keys of the cash register... finally I am a dev because I love typing on the keys of keyboards... 😂**
+<!-- - ⚡ Fun fact **when I was little girl I dreamed of being a cashier because I loved typing on the keys of the cash register... finally I am a dev because I love typing on the keys of keyboards... 🙄** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
