@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋 I'm Amala Harrat</h1>
+
 <h3 align="center">A passionate full-stack on Ruby on Rails</h3>
 
 - 🔭 I’m currently working on [Stand-up-for-life](https://github.com/AmalaHarrat/Stand-up-for-Life)
