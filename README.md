@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Ruby / JS**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/amala-harrat-/](https://www.linkedin.com/in/amala-harrat-/)
+<!-- - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/amala-harrat-/](https://www.linkedin.com/in/amala-harrat-/) -->
 
 - 📫 How to reach me **amal.harrat@hotmail.fr**
 
