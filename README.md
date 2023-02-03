@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Stand-up-for-life](https://github.com/AmalaHarrat/Stand-up-for-Life)
 
-- 🌱 I’m currently learning **Ruby / JS**
+- 🌱 I’m currently working on **Ruby / JS**
 
 <!-- - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/amala-harrat-/](https://www.linkedin.com/in/amala-harrat-/) -->
 
